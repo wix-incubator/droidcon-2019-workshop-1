@@ -1,0 +1,16 @@
+node_modules/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/watcherTasks.xml
+.idea/workspace.xml
+.idea/codeStyles/codeStyleConfig.xml
+.idea/inspectionProfiles/Project_Default.xml
+sourcemap.js
+build
+index.android.bundle.map
+package-lock.json
+main.jsbundle.map
+artifacts/
+.jest/
+.DS_Store
